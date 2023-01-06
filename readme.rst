@@ -48,7 +48,7 @@ Code block
 
 **code blocks** are used to mark some example code.
 
-Usefull links
-=============
+Useful links
+============
 
 - `ReStructuredText wikipedia <https://en.m.wikipedia.org/wiki/ReStructuredText>`_
